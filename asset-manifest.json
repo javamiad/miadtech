@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/javamiad/miadtech/static/css/main.be708769.css",
+    "main.js": "/javamiad/miadtech/static/js/main.590c87dd.js",
+    "static/js/453.1407b060.chunk.js": "/javamiad/miadtech/static/js/453.1407b060.chunk.js",
+    "index.html": "/javamiad/miadtech/index.html",
+    "main.be708769.css.map": "/javamiad/miadtech/static/css/main.be708769.css.map",
+    "main.590c87dd.js.map": "/javamiad/miadtech/static/js/main.590c87dd.js.map",
+    "453.1407b060.chunk.js.map": "/javamiad/miadtech/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be708769.css",
+    "static/js/main.590c87dd.js"
+  ]
+}
